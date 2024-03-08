@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(96, 128, 0);
+}
+
+.task-li{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    margin: 40px;
+}
+.delete-button{
+    padding: 5px 20px;
+    border-radius: 8px;
+}
+form{
+    width: 80%;
+    margin: 20px auto;
+
+}
